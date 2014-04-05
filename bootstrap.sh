@@ -1,0 +1,1 @@
+git submodule add git://github.com/dindinw/msysgit.git msysgit

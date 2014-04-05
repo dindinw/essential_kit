@@ -1,0 +1,3 @@
+[submodule "msysgit"]
+	path = msysgit
+	url = git://github.com/dindinw/msysgit.git
